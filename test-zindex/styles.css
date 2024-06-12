@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: saddlebrown;
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 2rem 0rem;
+}
+.container::after{
+    content: ' ';
+    width: 40%;
+    height: 100%;
+    background-color: lightcoral;
+    position: absolute;
+    top: 0;
+    right: 0;
+   
+}
+.nav{
+    width: 80%;
+    background-color: orange;
+    margin: 0 auto;
+    z-index: 3;
+}
+.hero{
+    width: 80%;
+    background-color: palevioletred;
+    margin: 0 auto;
+    z-index: 3;
+}
