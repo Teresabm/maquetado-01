@@ -6,8 +6,8 @@
 
 **Visualización en tamaño Desktop:**
 
-[![Desktop-size](desktop-image "Desktop-size")](/image-desktop.jpeg "Desktop-size")
+[![Desktop-size](desktop-image "Desktop-size")](assets/image-desktop.jpeg "Desktop-size")
 
 **Visualización en tamaño Movil:** 
 
-[![Movil-size](movil-image "Movil-size")](/image-movil.jpeg "Movil-size")
+[![Movil-size](movil-image "Movil-size")](assets/image-movil.jpeg "Movil-size")
